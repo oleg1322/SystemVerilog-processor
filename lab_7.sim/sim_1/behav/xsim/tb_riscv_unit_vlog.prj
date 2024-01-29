@@ -1,0 +1,26 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab_7.srcs/sources_1/new/sys_clk_rst_gen.v" \
+
+sv xil_defaultlib  \
+"../../../../lab_7.srcs/sources_1/new/alu_opcodes_pkg.sv" \
+"../../../../lab_7.srcs/sources_1/new/riscv_pkg.sv" \
+"../../../../lab_7.srcs/sources_1/new/decoder_riscv.sv" \
+"../../../../lab_7.srcs/sources_1/new/fulladder.sv" \
+"../../../../lab_7.srcs/sources_1/new/fulladder32.sv" \
+"../../../../lab_7.srcs/sources_1/new/led_sb_ctrl.sv" \
+"../../../../lab_7.srcs/sources_1/new/miriscv_ic.sv" \
+"../../../../lab_7.srcs/sources_1/new/miriscv_lsu.sv" \
+"../../../../lab_7.srcs/sources_1/new/miriscv_ram.sv" \
+"../../../../lab_7.srcs/sources_1/new/rf_riscv.sv" \
+"../../../../lab_7.srcs/sources_1/new/riscv_core.sv" \
+"../../../../lab_7.srcs/sources_1/new/riscv_unit.sv" \
+"../../../../lab_7.srcs/sources_1/new/sw_sb_ctrl.sv" \
+"../../../../lab_7.srcs/sources_1/new/àlu_rsñv.sv" \
+"../../../../../new_7/lab_7_new.sim/testbench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

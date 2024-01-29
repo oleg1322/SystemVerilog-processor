@@ -1,0 +1,22 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/alu_opcodes_pkg.sv,1703151468,systemVerilog,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/decoder_riscv.sv;C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/riscv_pkg.sv;C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/àlu_rsñv.sv,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/riscv_pkg.sv,,alu_opcodes_pkg,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/decoder_riscv.sv,1703151468,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/fulladder.sv,,decoder_riscv,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/fulladder.sv,1703151468,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/fulladder32.sv,,fulladder,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/fulladder32.sv,1703151468,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/led_sb_ctrl.sv,,fulladder32,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/led_sb_ctrl.sv,1703674661,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/miriscv_ic.sv,,led_sb_ctrl,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/miriscv_csr.sv,1703151468,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/miriscv_ic.sv,,miriscv_csr,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/miriscv_ic.sv,1706524182,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/miriscv_lsu.sv,,miriscv_ic,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/miriscv_lsu.sv,1703159780,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/miriscv_ram.sv,,miriscv_lsu,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/miriscv_ram.sv,1703151468,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/rf_riscv.sv,,miriscv_ram,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/rf_riscv.sv,1703329254,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/riscv_core.sv,,rf_riscv,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/riscv_core.sv,1703151468,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/riscv_unit.sv,,riscv_core,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/riscv_pkg.sv,1703151468,systemVerilog,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/decoder_riscv.sv,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/decoder_riscv.sv,,riscv_pkg,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/riscv_unit.sv,1703330885,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/sw_sb_ctrl.sv,,riscv_unit,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/sw_sb_ctrl.sv,1703446017,systemVerilog,,C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/àlu_rsñv.sv,,sw_sb_ctrl,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/sys_clk_rst_gen.v,1703151468,verilog,,,,sys_clk_rst_gen,,,,,,,,
+C:/univercity/aps_processor/aps_lab/lab_7/lab_7.srcs/sources_1/new/àlu_rsñv.sv,1703151468,systemVerilog,,C:/univercity/aps_processor/aps_lab/new_7/lab_7_new.sim/testbench.sv,,alu_rscv,,,,,,,,
+C:/univercity/aps_processor/aps_lab/new_7/lab_7_new.sim/testbench.sv,1703333051,systemVerilog,,,,tb_riscv_unit,,,,,,,,
